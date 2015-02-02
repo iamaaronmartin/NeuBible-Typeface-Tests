@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationCategoryType</key>
+	<false/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.quietpupil.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>BreveText-Book.otf</string>
+		<string>BreveText-BookItalic.otf</string>
+		<string>GraphikApp-Regular.ttf</string>
+		<string>GraphikApp-RegularItalic.ttf</string>
+		<string>BerlingskeSerifTx-Rg.otf</string>
+		<string>SentinelSSm-Book.otf</string>
+		<string>SentinelSSm-BookItalic.otf</string>
+		<string>CrimsonText-Bold.ttf</string>
+		<string>CrimsonText-BoldItalic.ttf</string>
+		<string>CrimsonText-Roman.ttf</string>
+		<string>CrimsonText-Italic.ttf</string>
+		<string>Merriweather-Regular.ttf</string>
+		<string>Merriweather-Italic.tff</string>
+		<string>TipoType - QuirogaSerifPro.otf</string>
+		<string>BerlingskeSerif-Blk.otf</string>
+		<string>Latinotype - Texta-Regular.otf</string>
+		<string>Latinotype - Texta-Book.otf</string>
+		<string>Latinotype - Texta-BookIt.otf</string>
+		<string>Latinotype - Texta-Light.otf</string>
+		<string>Publico Text-Bold Italic.otf</string>
+		<string>Publico Text-Bold.otf</string>
+		<string>Publico Text-Italic.otf</string>
+		<string>Publico Text-Roman.otf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
