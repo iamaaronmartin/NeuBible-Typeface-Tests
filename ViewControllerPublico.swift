@@ -19,8 +19,8 @@ class ViewControllerPublico: UIViewController {
         
         var builderP = NTAttributedStringBuilder()
         
-        builderP.append(UIFont(name: "BreveText-Book", size: 22));
-        builderP.append(NTAttr.lineHeightMultiple(1.375));
+        builderP.append(UIFont(name: "BreveText-Book", size: 17));
+        builderP.append(NTAttr.lineHeightMultiple(1.57));
         builderP.append(chapterText);
         
         self.publicoChapter.attributedText = builderP.attributedString;

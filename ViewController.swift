@@ -19,8 +19,8 @@ class ViewController: UIViewController {
         
         var builder = NTAttributedStringBuilder()
         
-        builder.append(UIFont(name: "Texta-Light", size: 20));
-        builder.append(NTAttr.lineHeightMultiple(1.25));
+        builder.append(UIFont(name: "Texta-Book", size: 20));
+        builder.append(NTAttr.lineHeightMultiple(1.15));
         builder.append(chapterText);
         
         self.textaChapter.attributedText = builder.attributedString;
